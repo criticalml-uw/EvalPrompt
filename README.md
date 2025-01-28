@@ -1,4 +1,4 @@
-## Medical Misinformation in Self-Diagnosis Using Large Language Models: Proposing the Robustness Analysis EvalPrompt
+## EvalPrompt: Analyzing Large Language Models for Self-Diagnosis
 
 To better understand the capability of using Large Language Models (LLMs) for self-diagnosis, we prompted ChatGPT with medical questions from the United States Medical Licensing Exam (USMLE). This repository contains the initial set of USMLE questions, along with the corresponding ChatGPT-4.0 responses which can then be evaluated by humans.
 

@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Zada"
+  given-names: "Troy"
+  orcid: "https://orcid.org/0009-0003-2418-609X"
+- family-names: "Tam"
+  given-names: "Natalie"
+- family-names: "Rambhatla"
+  given-names: "Sirisha"
+title: "EvalPrompt: Analyzing Large Language Models for Self-Diagnosis"
+version: 2.0.4
+date-released: 2025-01-29
+url: "https://github.com/criticalml-uw/EvalPrompt"
