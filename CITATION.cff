@@ -6,8 +6,10 @@ authors:
   orcid: "https://orcid.org/0009-0003-2418-609X"
 - family-names: "Tam"
   given-names: "Natalie"
+  orcid: "https://orcid.org/0009-0005-0713-8250"
 - family-names: "Rambhatla"
   given-names: "Sirisha"
+  orcid: "https://orcid.org/0000-0002-9389-727X"
 title: "EvalPrompt: Analyzing Large Language Models for Self-Diagnosis"
 version: 2.0.4
 date-released: 2025-01-29
